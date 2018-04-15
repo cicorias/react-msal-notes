@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/cicorias/tmp/aad/wip/react-azure-oauth2"
+		},
+		{
+			"path": "/Users/cicorias/tmp/aad/wip/react-azuread-passport"
+		},
+		{
+			"path": "/Users/cicorias/tmp/aad/wip/react-auth"
+		},
+		{
+			"path": "/Users/cicorias/tmp/aad/wip/react-azure-implicit"
+		},
+		{
+			"path": "/Users/cicorias/tmp/aad/wip/react-ts-msal"
+		},
+		{
+			"path": "/Users/cicorias/tmp/aad/wip/aad-react"
+		},
+		{
+			"path": "/Users/cicorias/tmp/aad/wip/msal-react"
+		},
+		{
+			"path": "/Users/cicorias/tmp/aad/wip/msal"
+		}
+	],
+	"settings": {}
+}
